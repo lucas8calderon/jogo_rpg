@@ -1,0 +1,15 @@
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.exe
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.deps.json
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.runtimeconfig.json
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.dll
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\ref\Abstraindo_um_Jogo_de_RPG.dll
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\bin\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.pdb
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.csproj.AssemblyReference.cache
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.AssemblyInfoInputs.cache
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.AssemblyInfo.cs
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.csproj.CoreCompileInputs.cache
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.dll
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\ref\Abstraindo_um_Jogo_de_RPG.dll
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.pdb
+C:\Users\EDUCAÇÃO\Desktop\work\Abstraindo_um_Jogo_de_RPG\obj\Debug\net6.0\Abstraindo_um_Jogo_de_RPG.genruntimeconfig.cache
